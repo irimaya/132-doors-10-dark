@@ -1,0 +1,22 @@
+/* Navbar */
+#navbar {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+/* Wrapper */
+.wrapper {
+  grid-template-columns: repeat(1, 1fr);
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Nested 2 */
+.nested-2 {
+  margin-bottom: 0px;
+}
+
+/* Nested 3 */
+.nested-3 {
+  margin-top: 0px;
+}
